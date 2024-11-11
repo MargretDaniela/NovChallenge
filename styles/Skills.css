@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    color: blueviolet;
+    font-size: larger;
+    margin: 50px 50px 50px 50px;
+    padding-left: 60px;
+}
+div{
+    font-style: italic;
+    background-color: rgba(128, 128, 128, 0.308);
+
+}
